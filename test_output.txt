@@ -1,0 +1,46 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Kyle\Documents\School\1st sem;1st yr\OOP\ProjectClasses> & C:/Users/Kyle/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/Kyle/Documents/School/1st sem;1st yr/OOP/ProjectClasses/Project_Classes_test.py"
+Hospital  Facilities are:
+
+Ambulance  
+
+Admissions 
+
+Canteen
+
+Emergency
+
+Enter Facility name:
+Covid Care
+Hospital  Facilities are:
+
+Ambulance
+
+Admissions
+
+Canteen
+
+Emergency
+
+Covid Care
+
+Facility       Cost
+Lab1           800
+Lab2           1200
+Lab3           500
+Lab4           50
+Enter Laboratory facility:
+Lab5
+Enter Laboratry cost:
+250
+Facility       Cost
+Lab1           800
+Lab2           1200
+Lab3           500
+Lab4           50
+Lab5           250
+PS C:\Users\Kyle\Documents\School\1st sem;1st yr\OOP\ProjectClasses> 
